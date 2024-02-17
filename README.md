@@ -1,4 +1,7 @@
 # git-session
 
-- Samuel Tiokeng
+
+- Tiokeng Samuel
 - Obyno callepy
+
+
