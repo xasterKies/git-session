@@ -1,4 +1,9 @@
 # git-session
 
-- Samuel Tiokeng
-- Ako Ruth Achere
+
+- Tiokeng Samuel
+- Obyno callepy
+- Fofie Fopa Elisabeth
+-  Ako Ruth Achere
+
+
