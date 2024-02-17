@@ -1,6 +1,5 @@
 # git-session
 
-
 - Tiokeng Samuel
 - Obyno callepy
 - Fofie Fopa Elisabeth
@@ -8,4 +7,4 @@
 - Chinepoh Divine-favour
 - Ndamunang Hosea Tatah
 - Apong Brandon
-
+- Ekane Yves
