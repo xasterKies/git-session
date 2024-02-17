@@ -2,4 +2,4 @@
 
 - Samuel Tiokeng
 
-- Apong Brandon Anya
+- Apong Brandon
