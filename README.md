@@ -1,4 +1,4 @@
 # git-session
 
-- Samuel Tiokeng
-- NAME
+- Tiokeng Samuel
+-
