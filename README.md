@@ -1,1 +1,3 @@
 # git-session
+
+- Samuel Tiokeng
